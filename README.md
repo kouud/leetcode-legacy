@@ -1,0 +1,2 @@
+# leetcode-legacy
+Learn Leetcode
